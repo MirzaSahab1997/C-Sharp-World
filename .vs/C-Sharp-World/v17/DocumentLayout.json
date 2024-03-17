@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE157B28-7432-48F8-A1E1-E5A7E6504867}|C-Sharp-World\\C-Sharp-World.csproj|d:\\caaryprojects\\my working\\c-sharp-world\\c-sharp-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE157B28-7432-48F8-A1E1-E5A7E6504867}|C-Sharp-World\\C-Sharp-World.csproj|solutionrelative:c-sharp-world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE157B28-7432-48F8-A1E1-E5A7E6504867}|C-Sharp-World\\C-Sharp-World.csproj|d:\\caaryprojects\\my working\\c-sharp-world\\c-sharp-world\\application\\services\\idverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE157B28-7432-48F8-A1E1-E5A7E6504867}|C-Sharp-World\\C-Sharp-World.csproj|solutionrelative:c-sharp-world\\application\\services\\idverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE157B28-7432-48F8-A1E1-E5A7E6504867}|C-Sharp-World\\C-Sharp-World.csproj|d:\\caaryprojects\\my working\\c-sharp-world\\c-sharp-world\\application\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE157B28-7432-48F8-A1E1-E5A7E6504867}|C-Sharp-World\\C-Sharp-World.csproj|solutionrelative:c-sharp-world\\application\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +51,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDVerificationService.cs",
+              "DocumentMoniker": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\Application\\Services\\IDVerificationService.cs",
+              "RelativeDocumentMoniker": "C-Sharp-World\\Application\\Services\\IDVerificationService.cs",
+              "ToolTip": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\Application\\Services\\IDVerificationService.cs",
+              "RelativeToolTip": "C-Sharp-World\\Application\\Services\\IDVerificationService.cs",
+              "ViewState": "AQIAACkCAAAAAAAAAAAAADkCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:26:58.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\Application\\Services\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "C-Sharp-World\\Application\\Services\\HttpClientService.cs",
+              "ToolTip": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\Application\\Services\\HttpClientService.cs",
+              "RelativeToolTip": "C-Sharp-World\\Application\\Services\\HttpClientService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:26:40.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-World\\Program.cs",
+              "ToolTip": "D:\\CaaryProjects\\My Working\\C-Sharp-World\\C-Sharp-World\\Program.cs",
+              "RelativeToolTip": "C-Sharp-World\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:20:40.919Z",
+              "EditorCaption": ""
             }
           ]
         }

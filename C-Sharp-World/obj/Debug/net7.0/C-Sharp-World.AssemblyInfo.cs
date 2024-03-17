@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-Sharp-World")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c3ab39bebff97407a7747cc4ca7ab88da733c8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8c15edfd0e0929c077a5b490dfba0ed4bbad803")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-Sharp-World")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-Sharp-World")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
