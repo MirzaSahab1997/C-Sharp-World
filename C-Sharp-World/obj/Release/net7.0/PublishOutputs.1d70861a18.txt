@@ -1,0 +1,12 @@
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\C-Sharp-World.exe
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\appsettings.Development.json
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\appsettings.json
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\C-Sharp-World.dll
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\C-Sharp-World.deps.json
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\C-Sharp-World.runtimeconfig.json
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\C-Sharp-World.pdb
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CaaryProjects\My Working\C-Sharp-World\C-Sharp-World\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
